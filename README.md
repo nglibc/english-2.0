@@ -79,8 +79,8 @@ writing, often cutting ambiguity down to 2-3 homophone choices or less.
    the transition between modes is purely the adding or stripping of dots.
    Exception: Fidelity voiceless (tħink) uses tħ and voiced (the) uses th.
 
-Together, these modes bridge the gap between historical heritage and
-modern phonetic logic without requiring a massive rewrite of the lexicon.
+Current implementation has focused on Approximation mode and Fidelity mode
+is incomplete.
 
 ## PRE-PROCESSING: CONSONANT SPECIALISATION & PHONETIC REFINEMENT
 - Soft 'c' mandate: 'c' restricted to ce/ci/cy/ch/ck or /ʃ/ else 'c'=>'k',
@@ -138,7 +138,7 @@ o       Short O /ɑ~ɒ/, except for Scribal O and Long OO (in to, do, who).
 u       Short U /ʌ/, ~/ə/(if unstressed) or Short OO (puyt, fuyll, puysh). 
 ```
 
-6. OTHER VOWEL SPECIALISATION
+## OTHER VOWEL SPECIALISATION
 Vowels can be (a) internal to word, (b) terminal at end of word/root word,
 (c) junctional (two separate syllables), (d) atomic 1-syllable root word.
 
