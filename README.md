@@ -1,5 +1,6 @@
 # ENGLISH 2.0
 What a simpler, more orthogonal and phonetically pure English would look like.
+Includes an automated translation tool written in C.
 
 # Compilation and usage
 Compile main.c as follows:
@@ -47,7 +48,7 @@ reconcile the compiler output with stockpiled data on the mobile phone over ther
 ```
 
 # Scope and help wanted!!!
-Initial scope of this translator is the top 2000 words. Other words may work
+Initial scope of this translator are the top 2000 words. Other words may work
 but haven't been verified as conforming to the English 2.0 specifications.
 
 Lower case text only is supported.
